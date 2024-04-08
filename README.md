@@ -15,6 +15,27 @@ Czy podobny los spotka drony? Czy branża ochrony będzie umiała właściwie za
 Przyglądam się temu od lat. Przeanalizowałem kilka możliwych powodów, dla których jeszcze nie widzimy mnóstwa latających dronów agencji ochrony monitorujących bezpieczeństwo. 
 
 
+
+W wielu miejscach na świecie są już postawione automatyczne gniazda w których stacjonują drony ochrony.
+ Dron ma zaprogramowany lot i podobnie tak patrol dokonuje oblotu określonego terenu. 
+ Wrazie anomali zostaje powiadomiona centrala. 
+ Anomalia to wgrany obraz w system na którym pojawia się jakaś zmiana. 
+ Technologia tania i prosta. Przydatna w skomplikowanych warunkach terenowych i na dużych obszarach.
+
+
+## co to jest patrol? 
+
+ W reklamach wież są to epatrole czy vpatrole, mimo, że w niektórych przypadkach bliżej temu do posterunku stałego lub doraźnego. 
+ W ochronie fizycznej bezpośredniej mamy obchód.
+ Mimo, że to raczej czynność dla kadry kierowniczej (obiekty obowiązkowej ochrony). 
+
+
+Dziś zaczynając o dronach warto się zastanowić co będą robić? I jaka będzie przewaga nad wieżami.
+
+mobilność, a więc rzeczywisty patrol. Jakie będzie miał cele? 
+to zależy od profesjonalnego organizatora ochrony. 
+
+
 ### Budowa dronów jest skomplikowana
 
 Prostą wieżę można “wyspawać” w garażu a następnie doczepić do niej kamery i źródła zasilania. Z dronem jest trudniej. Szczególnie takim cięższym, który nadawałby się w ochronie. Jego produkcja wymaga specjalistycznej wiedzy i komponentów. Na końcu jeszcze trzeba taki dron certyfikować aby został dopuszczony do komercyjnego latania.
